@@ -2,7 +2,7 @@
   <img width="70%" src="image/logo.png" />
 </div>
 
-# ApplyStyleKit
+# StyleKit
 [![Build Status](https://app.bitrise.io/app/9d318dc7bad1f48a/status.svg?token=802LajjAXiwN4qC3-HgtVA&branch=master)](https://app.bitrise.io/app/9d318dc7bad1f48a)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-brightgreen.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Cocoapods Compatible](https://img.shields.io/cocoapods/v/ApplyStyleKit.svg?style=flat)](https://cocoapods.org/pods/ApplyStyleKit)
